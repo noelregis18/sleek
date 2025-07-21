@@ -1,4 +1,4 @@
-# Modern Calculator
+# Modern Scientific Calculator
 
 A sleek, modern calculator web app built with Next.js and React. Designed for simplicity and ease of use, this calculator supports basic arithmetic operations and features a clean, responsive interface.
 
