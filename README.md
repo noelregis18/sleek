@@ -8,10 +8,6 @@ A sleek, modern calculator web app built with Next.js and React. Designed for si
 - Keyboard and button input support
 - Built with Next.js, React, and Tailwind CSS
 
-## Demo
-![Calculator Screenshot](./public/screenshot.png)
-*Add a screenshot of your app in the public folder as screenshot.png*
-
 ## Getting Started
 
 ### Prerequisites
